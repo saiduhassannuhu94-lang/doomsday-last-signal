@@ -1,0 +1,13 @@
+{
+  "name": "DOOMSDAY // LAST SIGNAL",
+  "short_name": "LAST SIGNAL",
+  "description": "A fictional interactive sci-fi horror countdown experience.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#08090b",
+  "theme_color": "#08090b",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
